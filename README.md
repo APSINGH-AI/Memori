@@ -348,3 +348,7 @@ We welcome contributions from the community! Please see our [Contributing Guidel
 ## License
 
 Apache 2.0 - see [LICENSE](https://github.com/MemoriLabs/Memori/blob/main/LICENSE)
+
+## Learning GitHub
+
+This is my first practice change in a forked repository.
